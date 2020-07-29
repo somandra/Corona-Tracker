@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Clone this Repo
-Run ### `npm install`
-It will install al dependencies
+Clone this Repo and Run 
+### `npm install`
+This will install all dependencies
 
 ## Available Scripts
 
