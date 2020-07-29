@@ -4,6 +4,9 @@ Clone this Repo and Run
 ### `npm install`
 This will install all dependencies
 
+## Live Demo
+(https://covid-19-trapp.herokuapp.com)
+
 ## Available Scripts
 
 In the project directory, you can run:
