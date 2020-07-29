@@ -19,3 +19,18 @@
 .deaths{
     border-bottom: 10px solid red;
 }
+
+@media(max-width: 770px){
+    .card {
+        margin: 0 2% !important;
+    }
+    .container {
+        margin: 20px 20px;
+        display: inline;
+        justify-content: space-around;
+    }
+    
+}
+.card:hover{
+    transform: scale(1.5);
+}
