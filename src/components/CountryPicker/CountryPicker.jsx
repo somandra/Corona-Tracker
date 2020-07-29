@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Charts = () => {
+const CountryPicker = () => {
     return(
-        <h1>Charts</h1>
+        <h1>CountryPicker</h1>
     )
 }
 
-export default Charts;
+export default CountryPicker;
